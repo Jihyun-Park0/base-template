@@ -1,0 +1,70 @@
+
+
+# ==== Format ====
+# :emoji: Subject
+#
+# Commit body...
+
+# ==== Examples ====
+# :bug: Fix importer bug #12334
+# :sparkles: Add Heads up feature.
+# :memo: Fix contrib.md [SKIP CI]
+
+# ==== Tips ====
+# You can instruct CI to skip individual commits by including [CI SKIP] or [SKIP CI] in the commit message. Note this is case-insensitive.
+
+# ==== The Seven Rules ====
+# 1. Separate subject from body with a blank line
+# 2. Limit the subject line to 50 characters
+# 3. Capitalize the subject line
+# 4. Do not end the subject line with a period
+# 5. Use the imperative mood in the subject line
+# 6. Wrap the body at 72 characters
+# 7. Use the body to explain what and why vs. how
+
+# ==== Emojis ====
+# 🔥  :fire: - Removing code or files.
+# 💄  :lipstick: - Updating the UI and style files.
+# 🎨  :art: - Improving structure / format of the code.
+# 🚑  :ambulance: - Critical hotfix.
+# 🐛  :bug: - Fixing a bug.
+# 💚  :green_heart: - Fixing CI Build.
+# ✨  :sparkles: - Introducing new features.
+# ⚡️  :zap: - Improving performance.
+# 🔨  :hammer: - Refactoring code.
+# 🚨  :rotating_light: - Removing linter warnings.
+# 🚧  :construction: - Work in progress.
+# ⬆️  :arrow_up: - Upgrading dependencies.
+# 🔒  :lock: - Fixing security issues.
+# ✏️  :pencil2: - Fixing typos.
+# 📝  :memo: - Writing docs.
+# 💥  :boom: - Introducing breaking changes.
+# 👌  :ok_hand: - Updating code due to code review changes.
+
+# ==== More emojis ====
+# 🚀  :rocket: - Deploying stuff.
+# ✅  :white_check_mark: - Adding tests.
+# 🔖  :bookmark: - Releasing / Version tags.
+# ⬇️  :arrow_down: - Downgrading dependencies.
+# 👷  :construction_worker: - Adding CI build system.
+# 📈  :chart_with_upwards_trend: - Adding analytics or tracking code.
+# ➖  :heavy_minus_sign: - Removing a dependency.
+# 🐳  :whale: - Work about Docker.
+# ➕  :heavy_plus_sign: - Adding a dependency.
+# 🔧  :wrench: - Changing configuration files.
+# 🌐  :globe_with_meridians: - Internationalization and localization.
+# 💩  :hankey: - Writing bad code that needs to be improved.
+# ⏪  :rewind: - Reverting changes.
+# 🔀  :twisted_rightwards_arrows: - Merging branches.
+# 📦  :package: - Updating compiled files or packages.
+# 👽  :alien: - Updating code due to external API changes.
+# 🚚  :truck: - Moving or renaming files.
+# 📄  :page_facing_up: - Adding or updating license.
+# 🍱  :bento: - Adding or updating assets.
+# ♿️  :wheelchair: - Improving accessibility.
+# 💡  :bulb: - Documenting source code.
+# 🍻  :beers: - Writing code drunkenly.
+# 💬  :speech_balloon: - Updating text and literals.
+# 🗃  :card_file_box: - Performing database related changes.
+# 🔌  :electric_plug: - Change pin assign or circuit config
+# 📸  :camera: - Add evidence (Images/Videos)

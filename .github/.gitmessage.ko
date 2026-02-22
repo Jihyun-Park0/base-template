@@ -1,0 +1,69 @@
+
+
+# ==== Format ====
+# :emoji: Subject
+#
+# Commit body... (상세한 설명)
+
+# ==== Examples ====
+# :bug: 임포터 버그 수정 #12334
+# :sparkles: 팝업 알림 기능 추가
+# :memo: contrib.md 오타 수정 [SKIP CI]
+
+# ==== Tips ====
+# 커밋 메시지에 [CI SKIP] 또는 [SKIP CI]를 포함하면 CI 실행을 건너뛸 수 있습니다.
+
+# ==== The Seven Rules (7가지 규칙) ====
+# 1. 제목과 본문 사이에는 한 줄을 비운다.
+# 2. 제목은 50자 이내로 작성한다.
+# 3. 제목의 끝에 마침표(.)를 붙이지 않는다.
+# 4. 제목은 명사형이나 명령형으로 작성한다 (~수정, ~추가)
+# 5. 본문은 줄당 72자 기준으로 줄바꿈한다.
+# 6. 본문에는 '어떻게'보다 '무엇을, 왜' 수정했는지 작성한다.
+
+# ==== Emojis (주요) ====
+# 🔥 :fire: - 코드나 파일 삭제
+# 💄 :lipstick: - UI 및 스타일 파일 업데이트
+# 🎨 :art: - 코드 구조/포맷 개선
+# 🚑 :ambulance: - 긴급 핫픽스 (중요 버그 수정)
+# 🐛 :bug: - 버그 수정
+# 💚 :green_heart: - CI 빌드 수정
+# ✨ :sparkles: - 신규 기능 추가
+# ⚡️ :zap: - 성능 개선
+# 🔨 :hammer: - 코드 리팩토링
+# 🚨 :rotating_light: - 린터 경고 제거
+# 🚧 :construction: - 작업 중 (WIP)
+# ⬆️ :arrow_up: - 의존성 업데이트
+# 🔒 :lock: - 보안 문제 수정
+# ✏️ :pencil2: - 오타 수정
+# 📝 :memo: - 문서(README 등) 추가/수정
+# 💥 :boom: - 파괴적 변경 (Breaking changes)
+# 👌 :ok_hand: - 코드 리뷰 후 수정
+
+# ==== More emojis (기타) ====
+# 🚀 :rocket: - 배포 관련 작업
+# ✅ :white_check_mark: - 테스트 추가
+# 🔖 :bookmark: - 릴리즈 / 버전 태그
+# ⬇️ :arrow_down: - 의존성 버전 다운그레이드
+# 👷 :construction_worker: - CI 빌드 시스템 추가
+# 📈 :chart_with_upwards_trend: - 분석 및 트래킹 코드 추가
+# ➖ :heavy_minus_sign: - 의존성 삭제
+# 🐳 :whale: - Docker 관련 작업
+# ➕ :heavy_plus_sign: - 의존성 추가
+# 🔧 :wrench: - 설정 파일 변경
+# 🌐 :globe_with_meridians: - 국제화 및 다국어 대응 (Localization)
+# 💩 :hankey: - 개선이 필요한 낮은 품질의 코드
+# ⏪ :rewind: - 변경 사항 되돌리기 (리버트)
+# 🔀 :twisted_rightwards_arrows: - 브랜치 머지
+# 📦 :package: - 컴파일된 파일이나 패키지 업데이트
+# 👽 :alien: - 외부 API 변경에 따른 코드 수정
+# 🚚 :truck: - 파일 이동 및 이름 변경
+# 📄 :page_facing_up: - 라이선스 추가/업데이트
+# 🍱 :bento: - 자산 파일(이미지 등) 추가/업데이트
+# ♿️ :wheelchair: - 웹 접근성 향상
+# 💡 :bulb: - 소스 코드 내 문서 주석 작성 (Javadoc 등)
+# 🍻 :beers: - 술 마시고 쓴 코드 (재치 있는 표현)
+# 💬 :speech_balloon: - 텍스트 및 리터럴 업데이트
+# 🗃 :card_file_box: - 데이터베이스 관련 변경
+# 🔌 :electric_plug: - 핀 맵 또는 회로 구성 변경
+# 📸 :camera: - 동작 확인 스크린샷/동영상 추가 (에비데인스)
