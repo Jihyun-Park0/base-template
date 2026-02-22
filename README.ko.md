@@ -21,7 +21,8 @@
  ├── .gitignore
  ├── README.md (영어 - 메인)
  ├── README.ko.md (한국어)
- └── README.ja.md (일본어)
+ ├── README.ja.md (일본어)
+ └── LICENSE
 ```
 
 ## 🚀 시작하기
@@ -38,3 +39,7 @@
 
 - 기능 1
 - 기능 2
+
+## :memo: 라이선스
+
+이 프로젝트는 [MIT License](./LICENSE)를 따릅니다.

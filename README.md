@@ -21,7 +21,8 @@
  ├── .gitignore 
  ├── README.md (English - Main)
  ├── README.ko.md (Korean)
- └── README.ja.md (Japanese)
+ ├── README.ja.md (Japanese)
+ └── LICENSE
  ```
 
 ## 🚀 Getting Started
@@ -38,3 +39,7 @@
 
 - Feature 1
 - Feature 2
+
+## :memo: License
+
+This project is licensed under the [MIT License](./LICENSE).
